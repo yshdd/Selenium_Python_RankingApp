@@ -6,9 +6,11 @@ Seleniumとpythonを用いたwebアプリの開発。
 ### アプリの画面
 最初の画面。検索クエリと調べたいURLを入力して青いボタンをクリックする。
 画像では例として、検索クエリを『python　公式ページ』, 検索URLを https://www.python.org　とした。
+
 ![スクリーンショット 2022-10-07 22 51 54](https://user-images.githubusercontent.com/70735561/194575634-5e224de9-7e83-42d4-89f9-875a7bb8987a.png)
 
-調査結果の画面
+以下は調査結果の画面。
+
 ![スクリーンショット 2022-10-07 22 52 19](https://user-images.githubusercontent.com/70735561/194576094-5a8496ea-a6f2-48da-982e-f2bdacc937cf.png)
 
 最大2ページまで見て、ない場合は以下のページを表示する。青い戻るボタンをクリックすると最初の画面に戻る。
